@@ -1,0 +1,367 @@
+{
+  "groups": [
+    {
+      "groupId": 0,
+      "records": [
+        {
+          "tsid": "S2LR7FM5LvHegu",
+          "dataSetName": "Botuvercave.Bernal.2016",
+          "decision": "keep"
+        },
+        {
+          "tsid": "SP05CRBR01A",
+          "dataSetName": "SP05CRBR",
+          "decision": "keep"
+        },
+        {
+          "tsid": "SP07WABR01A",
+          "dataSetName": "SP07WABR",
+          "decision": "keep"
+        },
+        {
+          "tsid": "S2LR668a1OMzKc",
+          "dataSetName": "Botuvercave.Bernal.2016",
+          "decision": "keep"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "groupId": 1,
+      "records": [
+        {
+          "tsid": "S2LRXCjbJRsfv3",
+          "dataSetName": "CuevadelDiablo.Bernal.2011",
+          "decision": "keep"
+        },
+        {
+          "tsid": "SP11BEMX01A",
+          "dataSetName": "SP11BEMX",
+          "decision": "remove"
+        }
+      ],
+      "notes": "removed by exact duplicate detection"
+    },
+    {
+      "groupId": 2,
+      "records": [
+        {
+          "tsid": "S2LRKAWCp7YCxG",
+          "dataSetName": "CuevadelTigrePerdido.vanBreukelen.2008",
+          "decision": "keep"
+        },
+        {
+          "tsid": "SP08VBPE01A",
+          "dataSetName": "SP08VBPE",
+          "decision": "remove"
+        },
+        {
+          "tsid": "SP08VBPE02A",
+          "dataSetName": "SP08VBPE",
+          "decision": "remove"
+        },
+        {
+          "tsid": "SP08VBPE03A",
+          "dataSetName": "SP08VBPE",
+          "decision": "keep"
+        },
+        {
+          "tsid": "SP13CHPE01A",
+          "dataSetName": "SP13CHPE",
+          "decision": "keep"
+        },
+        {
+          "tsid": "SP14APPE01A",
+          "dataSetName": "SP14APPE",
+          "decision": "keep"
+        },
+        {
+          "tsid": "SP14APPE02A",
+          "dataSetName": "SP14APPE",
+          "decision": "keep"
+        },
+        {
+          "tsid": "S2LRMGQmfxP6z3",
+          "dataSetName": "CuevadelTigrePerdido.vanBreukelen.2008",
+          "decision": "keep"
+        },
+        {
+          "tsid": "S2LRmBVO3ZS9RQ",
+          "dataSetName": "CuevadelTigrePerdido.vanBreukelen.2008",
+          "decision": "keep"
+        },
+        {
+          "tsid": "S2LRLfv6iCnPNE",
+          "dataSetName": "ElCondorcave.Cheng.2013",
+          "decision": "keep"
+        },
+        {
+          "tsid": "S2LRcMafCoSS3V",
+          "dataSetName": "ElCondorcave.Cheng.2013",
+          "decision": "keep"
+        },
+        {
+          "tsid": "S2LReUx5jbNbgq",
+          "dataSetName": "ElCondorcave.Cheng.2013",
+          "decision": "keep"
+        }
+      ],
+      "notes": "removed by exact duplicate detection"
+    },
+    {
+      "groupId": 3,
+      "records": [
+        {
+          "tsid": "S2LRNNRQiP9T5J",
+          "dataSetName": "Dantecave.Sletten.2013",
+          "decision": "keep"
+        },
+        {
+          "tsid": "SP13SLNA01A",
+          "dataSetName": "SP13SLNA",
+          "decision": "keep"
+        },
+        {
+          "tsid": "S2LRxITjJTYMCl",
+          "dataSetName": "Dantecave.Sletten.2013",
+          "decision": "remove"
+        }
+      ],
+      "notes": "removed by exact duplicate detection"
+    },
+    {
+      "groupId": 4,
+      "records": [
+        {
+          "tsid": "S2LRbPwlTL981A",
+          "dataSetName": "Donggecave.Yuan.2004",
+          "decision": "keep"
+        },
+        {
+          "tsid": "SP04YUCN02A",
+          "dataSetName": "SP04YUCN",
+          "decision": "keep"
+        },
+        {
+          "tsid": "SP06DYCN01A",
+          "dataSetName": "SP06DYCN",
+          "decision": "remove"
+        },
+        {
+          "tsid": "S2LRRAIihHA4uf",
+          "dataSetName": "Donggecave.Yuan.2004",
+          "decision": "keep"
+        },
+        {
+          "tsid": "SP04YUCN03A",
+          "dataSetName": "SP04YUCN",
+          "decision": "keep"
+        }
+      ],
+      "notes": "removed by exact duplicate detection"
+    },
+    {
+      "groupId": 5,
+      "records": [
+        {
+          "tsid": "S2LR984dImqQzT",
+          "dataSetName": "Heshangcave.C..2008",
+          "decision": "keep"
+        },
+        {
+          "tsid": "SP08HUCN01A",
+          "dataSetName": "SP08HUCN",
+          "decision": "keep"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "groupId": 6,
+      "records": [
+        {
+          "tsid": "S2LR6REtKecQef",
+          "dataSetName": "Huagapocave.Kanner.2013",
+          "decision": "keep"
+        },
+        {
+          "tsid": "LS00SEJU01",
+          "dataSetName": "LS00SEJU",
+          "decision": "keep"
+        },
+        {
+          "tsid": "SP13KAPE01A",
+          "dataSetName": "SP13KAPE",
+          "decision": "keep"
+        },
+        {
+          "tsid": "SP13KAPE02A",
+          "dataSetName": "SP13KAPE",
+          "decision": "keep"
+        },
+        {
+          "tsid": "S2LRI939L9cdEk",
+          "dataSetName": "Huagapocave.Kanner.2013",
+          "decision": "keep"
+        },
+        {
+          "tsid": "S2LRBXVhP2hFuP",
+          "dataSetName": "Huagapocave.Kanner.2013",
+          "decision": "keep"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "groupId": 7,
+      "records": [
+        {
+          "tsid": "S2LRBdOpwxurXe",
+          "dataSetName": "Jiuxiancave.Cai.2010",
+          "decision": "remove"
+        },
+        {
+          "tsid": "SP10CACN01A",
+          "dataSetName": "SP10CACN",
+          "decision": "remove"
+        },
+        {
+          "tsid": "SP10CACN02A",
+          "dataSetName": "SP10CACN",
+          "decision": "remove"
+        },
+        {
+          "tsid": "S2LR8slbkjtNM0",
+          "dataSetName": "Jiuxiancave.Cai.2010",
+          "decision": "keep"
+        },
+        {
+          "tsid": "S2LRCb8IVUAAAd",
+          "dataSetName": "Jiuxiancave.Cai.2010",
+          "decision": "keep"
+        }
+      ],
+      "notes": "removed by exact duplicate detection"
+    },
+    {
+      "groupId": 8,
+      "records": [
+        {
+          "tsid": "S2LRgwWVs7MIO3",
+          "dataSetName": "LiangLuar.Griffiths.2016",
+          "decision": "keep"
+        },
+        {
+          "tsid": "SP09GRID02A",
+          "dataSetName": "SP09GRID",
+          "decision": "keep"
+        },
+        {
+          "tsid": "SP09GRID01A",
+          "dataSetName": "SP09GRID",
+          "decision": "keep"
+        },
+        {
+          "tsid": "SP13AYID01_compo",
+          "dataSetName": "SP13AYID",
+          "decision": "remove"
+        },
+        {
+          "tsid": "SP13AYID01A",
+          "dataSetName": "SP13AYID",
+          "decision": "keep"
+        },
+        {
+          "tsid": "SP13AYID02A",
+          "dataSetName": "SP13AYID",
+          "decision": "keep"
+        },
+        {
+          "tsid": "SP13AYID03A",
+          "dataSetName": "SP13AYID",
+          "decision": "keep"
+        },
+        {
+          "tsid": "SP13AYID04A",
+          "dataSetName": "SP13AYID",
+          "decision": "keep"
+        },
+        {
+          "tsid": "LPD7d948e2e",
+          "dataSetName": "SP13AYID",
+          "decision": "keep"
+        },
+        {
+          "tsid": "SP13AYID05A",
+          "dataSetName": "SP13AYID",
+          "decision": "keep"
+        }
+      ],
+      "notes": "removed by exact duplicate detection"
+    },
+    {
+      "groupId": 9,
+      "records": [
+        {
+          "tsid": "S2LRZakzwznzEB",
+          "dataSetName": "PinkPanthercave.Asmerom.2007",
+          "decision": "keep"
+        },
+        {
+          "tsid": "SP07ASUS01A",
+          "dataSetName": "SP07ASUS",
+          "decision": "remove"
+        }
+      ],
+      "notes": "removed by exact duplicate detection"
+    },
+    {
+      "groupId": 10,
+      "records": [
+        {
+          "tsid": "S2LRPRzDX3Apju",
+          "dataSetName": "Qunfcave.Fleitmann.2007",
+          "decision": "keep"
+        },
+        {
+          "tsid": "SP07FLOM01A",
+          "dataSetName": "SP07FLOM",
+          "decision": "remove"
+        }
+      ],
+      "notes": "removed by exact duplicate detection"
+    },
+    {
+      "groupId": 11,
+      "records": [
+        {
+          "tsid": "S2LRvmcMc9Rkdw",
+          "dataSetName": "Sanbaocave.Dong.2010",
+          "decision": "keep"
+        },
+        {
+          "tsid": "SP10DOCN01A",
+          "dataSetName": "SP10DOCN",
+          "decision": "keep"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "groupId": 12,
+      "records": [
+        {
+          "tsid": "SP12CACN01A",
+          "dataSetName": "SP12CACN",
+          "decision": "remove"
+        },
+        {
+          "tsid": "S2LRvmcMc9Rkdw-dup",
+          "dataSetName": "Tianmen.Cai.2010",
+          "decision": "keep"
+        }
+      ],
+      "notes": "removed by exact duplicate detection"
+    }
+  ]
+}
